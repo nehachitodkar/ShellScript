@@ -1,6 +1,6 @@
-#!/ bin/bash
+#!/bin/bash
 
-echo "Hello World!\n"
-echo "Hi.....\n" 
+echo "Hello World!"
+echo "Hello Universe!"
 
 
